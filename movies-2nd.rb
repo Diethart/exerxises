@@ -8,9 +8,7 @@ filmstop.each do |film|
   if filmstopseparated[1].include?("Time")
     rating =  filmstopseparated[7].to_f - filmstopseparated[7].to_i 
     print filmstopseparated[1], " "
-    for i in 1..(rating*10).round
-      print "*"
-    end
+    print "*"*(rating*10).round
     print "\n"
   end
 end
