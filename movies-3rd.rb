@@ -13,11 +13,8 @@ filmstop.map! do |film|
 		     rating: film[7], director: film[8], actors: film[9]}
 end
 
-
 #Сортировка по длине
-filmstop.sort_by! { |film| film[:length].to_i}
-filmstop.reverse!
-mostlengthfilms = filmstop.take(5)
+mostlengthfilms = filmstop.sort_by { |film| film[:length].to_i}.reverse.first(5)
 
 #Вывод 5-ти самых длинных фильмов
 puts "Most length movies:", " "
@@ -26,7 +23,7 @@ mostlengthfilms.each do |film|
 end
 
 #Сортировка по жанру "Комедия" и сортировка получившегося массива по дате выпуска
-onlycomedyfilms = filmstop.select { |film| film[:genre].to_s.include?("Comedy") }
+onlycomedyfilms = filmstop.select { |film| film[:genre].include?("Comedy") }
 onlycomedyfilms.sort_by! { |film| film[:date].to_i }
 
 #Вывод получившегося массива комедий
@@ -35,13 +32,20 @@ onlycomedyfilms.each do |film|
   puts " ", film[:name] +  " " + film[:date]
 end
 
-#Получение уникального массива режиссеров, сортированного по алфавиту
-directorsmassive = filmstop.uniq { |film| film[:director] }
-directorsmassive.sort_by! { |film| film[:director].to_s }
-
-directorsmassive.each do |film|
-  puts film[:director]
+#Получение хеша режиссеров
+directorsmassive = filmstop.map { |film| film[:director] }
+initial = Hash.new(0)
+finalhashofdir = directorsmassive.reduce(initial) do |hashdir, director|
+  hashdir[director] += 1
+  hashdir
 end
+
+#Конвертация хеша в массив с массивами
+directorsarray = finalhashofdir.to_a
+
+#Сортировка по фамилии и вывод
+directorsarray.sort_by! { |director| director[0].split.last }
+directorsarray.each { |director| puts director[0] + " " + director[1].to_s }
 
 #Получение массива фильмов, снятых не в США
 notusafilms = filmstop.reject { |film| film[:country] == "USA" }
@@ -52,14 +56,18 @@ puts notusafilms.count
 bydirector = filmstop.group_by { |film| film[:director] }
 puts bydirector.count
 
+
 #Получение Hash'а "актер - количество фильмов"
-start = Hash.new(0)
-final = filmstop.reduce(start) do |actors, film|
-  splitted = film[:actors].split(',')
-  splitted.map! { |actor| actor.chomp }
-  splitted.each do |actor|
-    actors[actor] += 1
-  end
-  actors
+start = Array.new(0)
+actorsarray = filmstop.reduce(start) do |finalarray, film| 
+  finalarray+=film[:actors].split(',')
+  finalarray
 end
-puts final
+
+final = Hash.new(0)
+actorshash = actorsarray.reduce(final) do |finalhash, actor| 
+  finalhash[actor] += 1 
+  finalhash
+end  
+
+actorshash.each { |key, value| puts key.chomp + " " + value.to_s }
