@@ -23,8 +23,8 @@ mostlengthfilms.each do |film|
 end
 
 #Сортировка по жанру "Комедия" и сортировка получившегося массива по дате выпуска
-onlycomedyfilms = filmstop.select { |film| film[:genre].include?("Comedy") }
-onlycomedyfilms.sort_by! { |film| film[:date].to_i }
+onlycomedyfilms = filmstop.select { |film| film[:genre].include?("Comedy") }.sort_by { |film| film[:date].to_i }
+
 
 #Вывод получившегося массива комедий
 puts " ", "Comedy sorted by date"
