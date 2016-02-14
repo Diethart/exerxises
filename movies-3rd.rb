@@ -13,11 +13,8 @@ filmstop.map! do |film|
 		     rating: film[7], director: film[8], actors: film[9]}
 end
 
-
 #Сортировка по длине
-filmstop.sort_by! { |film| film[:length].to_i}
-filmstop.reverse!
-mostlengthfilms = filmstop.take(5)
+mostlengthfilms = filmstop.sort_by { |film| film[:length].to_i}.reverse.first(5)
 
 #Вывод 5-ти самых длинных фильмов
 puts "Most length movies:", " "
@@ -26,7 +23,7 @@ mostlengthfilms.each do |film|
 end
 
 #Сортировка по жанру "Комедия" и сортировка получившегося массива по дате выпуска
-onlycomedyfilms = filmstop.select { |film| film[:genre].to_s.include?("Comedy") }
+onlycomedyfilms = filmstop.select { |film| film[:genre].include?("Comedy") }
 onlycomedyfilms.sort_by! { |film| film[:date].to_i }
 
 #Вывод получившегося массива комедий
@@ -35,31 +32,23 @@ onlycomedyfilms.each do |film|
   puts " ", film[:name] +  " " + film[:date]
 end
 
-#Получение уникального массива режиссеров, сортированного по алфавиту
-directorsmassive = filmstop.uniq { |film| film[:director] }
-directorsmassive.sort_by! { |film| film[:director].to_s }
-
-directorsmassive.each do |film|
-  puts film[:director]
-end
-
 #Получение массива фильмов, снятых не в США
 notusafilms = filmstop.reject { |film| film[:country] == "USA" }
 puts notusafilms.count
 
+#Получение Hash'а "актер - количество фильмов"
+
+actorsarray = filmstop.map {|actor| actor[:actors].split(',')}.flatten
+
+actorshash = actorsarray.reduce(Hash.new(0)) do |actorslist, actor| 
+  actorslist[actor.chomp] += 1 
+  actorslist
+end  
+
+actorshash.each { |actor, countfilms| puts "#{actor}: #{countfilms}" }
 
 #Группировка по режиссеру
-bydirector = filmstop.group_by { |film| film[:director] }
-puts bydirector.count
+filmstop.group_by { |film| film[:director] }.each { |director, film| puts "#{director}: #{film.size}"}
 
-#Получение Hash'а "актер - количество фильмов"
-start = Hash.new(0)
-final = filmstop.reduce(start) do |actors, film|
-  splitted = film[:actors].split(',')
-  splitted.map! { |actor| actor.chomp }
-  splitted.each do |actor|
-    actors[actor] += 1
-  end
-  actors
-end
-puts final
+#Получение массива режиссеров с сортировкой по фамилии
+puts filmstop.map { |film| film[:director] }.uniq.sort_by { |director| director.split(" ").last }
