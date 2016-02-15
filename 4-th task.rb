@@ -8,18 +8,16 @@ unless File.file?(ARGV[0])
 end
 
 #Получение массива строк с фильмами
-filmstop = CSV.read(ARGV[0], {:col_sep =>'|'})
-Filmsattr = ["refer", "name", "date", "country", "premier", "genre", "length", "rating", "director", "actor"]
-
-filmstop.map! { |film| film = OpenStruct.new(Hash[Filmsattr.zip(film)]) }
+ATTR = %w[refer name date country premier genre length rating director actor]
+filmstop = CSV.read(ARGV[0], {:col_sep =>'|'}).map { |film| film = OpenStruct.new(Hash[ATTR.zip(film)]) }
 
 #Сортировка по длине
-mostlengthfilms = filmstop.sort_by { |film| film.length.to_i}.reverse.first(5)
+longest = filmstop.sort_by { |film| film.length.to_i}.reverse.first(5)
 
 #Вывод 5-ти самых длинных фильмов
 puts "Most length movies:", " "
-mostlengthfilms.each do |film|
-  puts film.name, " "
+longest.each do |film|
+  puts "#{film.name} "
 end
 
 #Сортировка по жанру "Комедия" и сортировка получившегося массива по дате выпуска
@@ -28,13 +26,12 @@ onlycomedyfilms = filmstop.select { |film| film.genre.include?("Comedy") }.sort_
 #Вывод получившегося массива комедий
 puts " ", "Comedy sorted by date"
 onlycomedyfilms.each do |film|
-  puts " ", film.name +  " " + film.date
+  puts "#{film.name} #{film.date}"
 end
 
 #Получение массива фильмов, снятых не в США
 notusafilms = filmstop.reject { |film| film.country == "USA" }
 puts notusafilms.count
-
 
 #Получение Hash'а "актер - количество фильмов"
 actorsarray = filmstop.map {|actor| actor.actors.split(',')}.flatten
@@ -51,7 +48,6 @@ filmstop.group_by(&:director).each { |director, film| puts "#{director}: #{film.
 
 #Получение массива режиссеров с сортировкой по фамилии
 puts filmstop.map(&:director).uniq.sort_by { |director| director.split(" ").last }
-
 
 #Получение статистики выхода фильмов по месяцам
 monthstat = filmstop.reduce(Hash.new(0)) do |stat, film| 
