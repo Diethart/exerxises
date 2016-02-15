@@ -33,7 +33,6 @@ actorshash = actorsarray.reduce(Hash.new(0)) do |actorslist, actor|
   actorslist[actor] += 1 
   actorslist
 end  
-
 actorshash.each { |actor, countfilms| puts "#{actor}: #{countfilms}" }
 
 #Группировка по режиссеру
@@ -43,13 +42,8 @@ filmstop.group_by(&:director).each { |director, film| puts "#{director}: #{film.
 puts filmstop.map(&:director).uniq.sort_by { |director| director.split(" ").last }
 
 #Получение статистики выхода фильмов по месяцам
-monthstat = filmstop.reduce(Hash.new(0)) do |stat, film| 
-  begin
-    stat[Date.strptime(film.premier,'%Y-%m').month] += 1
-  rescue
-    next(stat)
-  end
+monthstat = filmstop.reject{|film| film.premier.length<5 }.reduce(Hash.new(0)) do |stat, film| 
+  stat[Date.strptime(film.premier,'%Y-%m').month] += 1
   stat
 end
-
 pp monthstat
