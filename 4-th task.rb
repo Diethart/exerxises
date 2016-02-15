@@ -15,23 +15,16 @@ filmstop = CSV.read(ARGV[0], {:col_sep =>'|'}).map { |film| film = OpenStruct.ne
 longest = filmstop.sort_by { |film| film.length.to_i}.reverse.first(5)
 
 #Вывод 5-ти самых длинных фильмов
-puts "Most length movies:", " "
-longest.each do |film|
-  puts "#{film.name} "
-end
+longest.each { |film| puts "#{film.name} "}
 
 #Сортировка по жанру "Комедия" и сортировка получившегося массива по дате выпуска
 onlycomedyfilms = filmstop.select { |film| film.genre.include?("Comedy") }.sort_by { |film| film.date.to_i }
 
 #Вывод получившегося массива комедий
-puts " ", "Comedy sorted by date"
-onlycomedyfilms.each do |film|
-  puts "#{film.name} #{film.date}"
-end
+onlycomedyfilms.each { |film| puts "#{film.name} #{film.date}" }
 
 #Получение массива фильмов, снятых не в США
-notusafilms = filmstop.reject { |film| film.country == "USA" }
-puts notusafilms.count
+puts filmstop.reject { |film| film.country == "USA" }.count
 
 #Получение Hash'а "актер - количество фильмов"
 actorsarray = filmstop.map {|actor| actor.actors.split(',')}.flatten
