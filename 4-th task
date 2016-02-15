@@ -9,14 +9,9 @@ end
 
 #Получение массива строк с фильмами
 filmstop = CSV.read(ARGV[0], {:col_sep =>'|'})
+Filmsattr = ["refer", "name", "date", "country", "premier", "genre", "length", "rating", "director", "actor"]
 
-#Разделение строк на части и превращение каждого элемента массива в словарь
-filmstop.map! do |film|
-  film = OpenStruct.new( name: film[1], date: film[2], country: film[3],
-		   premier: film[4], genre: film[5], length: film[6],
-		     rating: film[7], director: film[8], actors: film[9])
-end
-
+filmstop.map! { |film| film = OpenStruct.new(Hash[Filmsattr.zip(film)]) }
 
 #Сортировка по длине
 mostlengthfilms = filmstop.sort_by { |film| film.length.to_i}.reverse.first(5)
@@ -35,8 +30,9 @@ puts " ", "Comedy sorted by date"
 onlycomedyfilms.each do |film|
   puts " ", film.name +  " " + film.date
 end
+
 #Получение массива фильмов, снятых не в США
-notusafilms = filmstop.reject { |film| film.country] == "USA" }
+notusafilms = filmstop.reject { |film| film.country == "USA" }
 puts notusafilms.count
 
 
@@ -50,12 +46,12 @@ end
 
 actorshash.each { |actor, countfilms| puts "#{actor}: #{countfilms}" }
 
-
 #Группировка по режиссеру
-filmstop.group_by { |film| film.director }.each { |director, film| puts "#{director}: #{film.size}"}
+filmstop.group_by(&:director).each { |director, film| puts "#{director}: #{film.size}"}
 
 #Получение массива режиссеров с сортировкой по фамилии
-puts filmstop.map { |film| film.director }.uniq.sort_by { |director| director.split(" ").last }
+puts filmstop.map(&:director).uniq.sort_by { |director| director.split(" ").last }
+
 
 #Получение статистики выхода фильмов по месяцам
 monthstat = filmstop.reduce(Hash.new(0)) do |stat, film| 
