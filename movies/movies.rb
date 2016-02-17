@@ -15,16 +15,17 @@ class Movie
   end
   
   def date
-    Date.strptime(@date, '%Y').year
+    @date.to_i
   end
   
   def premier
-    if @premier.length > 5 and @premier.length < 8
-	  Date.strptime(@premier, "%Y-%m")
-	elsif @premier.length > 8
-	  Date.strptime(@premier, "%Y-%m-%d")
-	else 
-	  nil
+    case @premier.length
+	  when 7
+	    Date.strptime(@premier, "%Y-%m")
+	  when 10
+	    Date.strptime(@premier, "%Y-%m-%d")
+	  else
+	    nil
 	end
   end
   
