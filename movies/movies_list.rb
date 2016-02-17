@@ -4,7 +4,6 @@ require 'date'
 require_relative 'movie'
 
 class MoviesList
-  @movies
   def initialize(file, separator)
     @movies = CSV.read(file, {col_sep: separator}).map { |film| Movie.new(*film) }
   end
@@ -14,7 +13,7 @@ class MoviesList
   end
   
   def longest(numbers)
-    @movies.sort_by { |film| film.length.to_i }.reverse.first(numbers)
+    @movies.sort_by { |film| film.length }.reverse.first(numbers)
   end
   
   def select_genre(genre)
@@ -34,7 +33,7 @@ class MoviesList
   end
   
   def director_stat
-    @movies.group_by(&:director).map { |director, films| "Director: #{director}"+ "\n" + "Movies: #{films.length}" }
+    @movies.group_by(&:director).map { |director, films| "Director:#{director}  Movies: #{films.length}" }
   end
   
   def director_names
@@ -42,15 +41,15 @@ class MoviesList
   end
   
   def actors_stat
-    @movies.map {|film| film.actors.split(',')}.flatten.reduce(Hash.new(0)) do |actors, actor| 
+    @movies.map {|film| film.actors}.flatten.reduce(Hash.new(0)) do |actors, actor| 
     actors[actor] += 1 
     actors
 	end
   end
   
   def month_stat
-    @movies.reject{|film| film.premier.length<5 }.reduce(Hash.new(0)) do |stat, film| 
-    stat[Date.strptime(film.premier,'%Y-%m').month] += 1
+    @movies.select{|film| film.premier.is_a? Date }.reduce(Hash.new(0)) do |stat, film| 
+    stat[film.premier.month] += 1
     stat
     end
   end
