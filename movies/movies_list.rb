@@ -13,7 +13,7 @@ class MoviesList
   end
   
   def longest(numbers)
-    @movies.sort_by { |film| film.length }.reverse.first(numbers)
+    @movies.sort_by(&:length).reverse.first(numbers)
   end
   
   def select_genre(genre)
@@ -41,14 +41,14 @@ class MoviesList
   end
   
   def actors_stat
-    @movies.map {|film| film.actors}.flatten.reduce(Hash.new(0)) do |actors, actor| 
+    @movies.map(&:actors).flatten.reduce(Hash.new(0)) do |actors, actor| 
     actors[actor] += 1 
     actors
 	end
   end
   
   def month_stat
-    @movies.select{|film| film.premier.is_a? Date }.reduce(Hash.new(0)) do |stat, film| 
+    @movies.select(&:premier).compact.reduce(Hash.new(0)) do |stat, film| 
     stat[film.premier.month] += 1
     stat
     end
