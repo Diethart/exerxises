@@ -1,7 +1,8 @@
 require 'ostruct'
 require 'csv'
 require 'date'
-require_relative 'movie'
+require_relative 'movies'
+require_relative 'movies_children'
 
 class MoviesList
   def initialize(file, separator)

@@ -1,8 +1,10 @@
-require_relative 'movie'
+require_relative 'movies'
 require_relative 'movies_list'
+require_relative 'my_movies_list'
+require_relative 'movies_children'
 require 'pp'
 
-movies = MoviesList.new(ARGV[0],"|")
+movies = MyMoviesList.new(ARGV[0],"|")
 
 #puts movies.longest(5)
 #puts movies.select_genre("COMEDY")
@@ -12,4 +14,4 @@ movies = MoviesList.new(ARGV[0],"|")
 #puts movies.director_stat
 #puts movies.director_names
 #pp movies.actors_stat
-pp movies.month_stat
+#pp movies.month_stat
