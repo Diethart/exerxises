@@ -1,7 +1,8 @@
 require 'date'
 
 class Movie
-  attr_accessor :refer, :name, :country, :genre, :rating, :director
+  attr_accessor :refer, :name, :country, :genre, :director
+  attr_reader :weight
   def initialize(*args)
     @refer, @name, @date, @country, @premier, @genre, @length, @rating, @director, @actors = args
   end
@@ -12,6 +13,10 @@ class Movie
   
   def length
     @length.to_i
+  end
+  
+  def rating
+    @rating.to_i
   end
   
   def date

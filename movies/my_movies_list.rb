@@ -1,6 +1,15 @@
+require_relative 'module_rating'
+
 class MyMoviesList < MoviesList
+  include Rating
+
   def initialize(file, separator)
-    @movies = CSV.read(file, {col_sep: separator}).map do |film|
+    super
+    @rating = Hash.new(0)
+  end
+
+  def read_csv(file, separator)
+    CSV.read(file, {col_sep: separator}).map do |film|
       case film[2].to_i
       when 1900..1945
         AncientMovie.new(*film)

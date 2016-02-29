@@ -5,8 +5,15 @@ require_relative 'movies'
 require_relative 'movies_children'
 
 class MoviesList
+  attr_reader :movies
+  alias_method :list, :movies
+
   def initialize(file, separator)
-    @movies = CSV.read(file, {col_sep: separator}).map { |film| Movie.new(*film) }
+    @movies = read_csv(file, separator)
+  end
+
+  def read_csv(file, separator)
+      CSV.read(file, {col_sep: separator}).map { |film| Movie.new(*film) }
   end
   
   def [](index)

@@ -3,6 +3,7 @@ require_relative 'movies_list'
 require_relative 'my_movies_list'
 require_relative 'movies_children'
 require 'pp'
+require 'date'
 
 movies = MyMoviesList.new(ARGV[0],"|")
 
@@ -16,4 +17,13 @@ movies = MyMoviesList.new(ARGV[0],"|")
 #pp movies.actors_stat
 #pp movies.month_stat
 
-puts movies.longest(5)
+#puts movies.new_recomendation
+
+movies.add_seen("The Shawshank Redemption", 9)
+movies.add_seen("The Godfather", 8)
+movies.add_seen("The Godfather: Part II", 7)
+movies.add_seen("Pulp Fiction", 10)
+movies.add_seen("Goodfellas", 6)
+movies.add_seen("The Matrix", 10)
+
+puts movies.seen_recomendation
