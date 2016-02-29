@@ -1,7 +1,7 @@
 class AncientMovie < Movie
   def initialize(*args)
     super
-	@weight = 0.7
+  @weight = 0.7
   end
   
   def to_s
@@ -12,7 +12,7 @@ end
 class ClassicMovie < Movie
   def initialize(*args)
     super
-	@weight = 0.8
+  @weight = 0.8
   end
   
   def to_s
@@ -23,7 +23,7 @@ end
 class ModernMovie < Movie
   def initialize(*args)
     super
-	@weight = 0.9
+  @weight = 0.9
   end
   
   def to_s
@@ -34,7 +34,7 @@ end
 class NewMovie < Movie
   def initialize(*args)
     super
-	@weight = 1.0
+  @weight = 1.0
   end
   
   def to_s

@@ -45,7 +45,7 @@ class MoviesList
     @movies.map(&:actors).flatten.reduce(Hash.new(0)) do |actors, actor| 
     actors[actor] += 1 
     actors
-	end
+  end
   end
   
   def month_stat

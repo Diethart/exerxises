@@ -20,13 +20,13 @@ class Movie
   
   def premier
     case @premier.length
-	  when 7
-	    Date.strptime(@premier, "%Y-%m")
-	  when 10
-	    Date.strptime(@premier, "%Y-%m-%d")
-	  else
-	    nil
-	end
+    when 7
+      Date.strptime(@premier, "%Y-%m")
+    when 10
+      Date.strptime(@premier, "%Y-%m-%d")
+    else
+      nil
+  end
   end
   
   def actors
