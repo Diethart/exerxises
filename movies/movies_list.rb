@@ -9,11 +9,11 @@ class MoviesList
   alias_method :list, :movies
 
   def initialize(file, separator)
-    @movies = read_csv(file, separator)
+    @movies = CSV.read(file, {col_sep: separator}).map { |film| make_movie(film) }
   end
 
-  def read_csv(file, separator)
-      CSV.read(file, {col_sep: separator}).map { |film| Movie.new(*film) }
+  def make_movie(film)
+       Movie.new(*film)
   end
   
   def [](index)

@@ -23,10 +23,8 @@ module Rating
   end
 
   def seen_recomendation
-    seen.sort_by { |film| date_n_rating(film.name) * rand(10) }.reverse.first(5)
-  end
-
-  def date_n_rating(film)
-    @rating[film][0] + (Date.today - @rating[film][1]).to_i
+    seen.sort_by { |film|
+      rating, date = @rating[film.name]
+      rating * (Date.today - date) * rand(10) }.reverse.first(5)
   end
 end
