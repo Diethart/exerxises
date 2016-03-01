@@ -10,7 +10,7 @@ class MoviesList
 
   def initialize(file, separator)
     @movies = CSV.read(file, {col_sep: separator}).map { |film| make_movie(film) }
-    @sort_algo = Hash.new(0)
+    @sort_algo = {}
   end
 
   def make_movie(film)
@@ -84,10 +84,8 @@ class MoviesList
     @movies.each { |film| puts block.call(film) }
   end
 
-  def sorted_by(name, &block)
-    algo = @sort_algo[name] || block
-    p algo
-    #@movies.sort_by(&algo)
+  def sorted_by(name=nil, &block)
+    @movies.sort_by(&(@sort_algo[name] || block))
   end
 
   def add_sort_algo(name, &block)

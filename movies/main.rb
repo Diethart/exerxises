@@ -37,4 +37,4 @@ puts movies.seen_recomendation
 #movies.add_sort_algo(:genre_year) { |film| [film.genre, film.date] }
 #puts movies.sorted_by(:genre_year)
 
-puts movies.sorted_by { |film| [film.genre, film.date] }
+#puts movies.sorted_by { |film| [film.genre, film.date] }
