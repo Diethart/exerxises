@@ -10,6 +10,7 @@ class MoviesList
 
   def initialize(file, separator)
     @movies = CSV.read(file, {col_sep: separator}).map { |film| make_movie(film) }
+    @sort_algo = Hash.new(0)
   end
 
   def make_movie(film)
@@ -52,7 +53,7 @@ class MoviesList
     @movies.map(&:actors).flatten.reduce(Hash.new(0)) do |actors, actor| 
     actors[actor] += 1 
     actors
-  end
+    end
   end
   
   def month_stat
@@ -60,5 +61,36 @@ class MoviesList
     stat[film.premier.month] += 1
     stat
     end
+  end
+
+=begin
+  def print
+    @movies.each do |film|
+      if block_given?
+        puts yield film
+      else
+        puts film
+      end
+    end
+  end
+
+  def sorted_by(&block)
+    @movies.sort_by { |film| block.call(film) }
+  end
+=end
+
+  def print(&block)
+    block ||= proc{ |film| film.to_s }
+    @movies.each { |film| puts block.call(film) }
+  end
+
+  def sorted_by(name, &block)
+    algo = @sort_algo[name] || block
+    p algo
+    #@movies.sort_by(&algo)
+  end
+
+  def add_sort_algo(name, &block)
+    @sort_algo[name] = block
   end
 end

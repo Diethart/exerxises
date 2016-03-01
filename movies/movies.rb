@@ -8,7 +8,7 @@ class Movie
   end
   
   def to_s
-    "Name: #{@name}  Length: #{@length}  Genre: #{genre} Country: #{@country}" 
+    "Name: #{@name}  Length: #{@length}  Genre: #{genre} Country: #{@country} Date: #{@date}" 
   end
   
   def length
