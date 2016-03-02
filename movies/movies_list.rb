@@ -11,6 +11,7 @@ class MoviesList
   def initialize(file, separator)
     @movies = CSV.read(file, {col_sep: separator}).map { |film| make_movie(film) }
     @sort_algo = {}
+    @filters = {}
   end
 
   def make_movie(film)
@@ -62,23 +63,7 @@ class MoviesList
     stat
     end
   end
-
-=begin
-  def print
-    @movies.each do |film|
-      if block_given?
-        puts yield film
-      else
-        puts film
-      end
-    end
-  end
-
-  def sorted_by(&block)
-    @movies.sort_by { |film| block.call(film) }
-  end
-=end
-
+  
   def print(&block)
     block ||= proc{ |film| film.to_s }
     @movies.each { |film| puts block.call(film) }
@@ -90,5 +75,15 @@ class MoviesList
 
   def add_sort_algo(name, &block)
     @sort_algo[name] = block
+  end
+
+  def filter(filters)
+    movies = @movies.clone
+    filters.each_pair { |action, value| movies.select! {|movie| @filters[action][movie,*value]} }  
+    movies
+  end
+
+  def add_filter(name, &block)
+    @filters[name] = block
   end
 end
