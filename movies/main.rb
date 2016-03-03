@@ -1,11 +1,11 @@
 require_relative 'movies'
+require_relative 'movies_children'
 require_relative 'movies_list'
 require_relative 'my_movies_list'
-require_relative 'movies_children'
 require 'pp'
 require 'date'
 
-movies = MoviesList.new(ARGV[0],"|")
+movies = MyMoviesList.new(ARGV[0],"|")
 
 #ТЕСТИРОВАНИЕ БАЗОВЫХ МЕТОДОВ СПИСКА ФИЛЬМОВ
 #puts movies.longest(5)
@@ -37,10 +37,10 @@ puts movies.seen_recomendation
 #movies.print {|film| puts "#{film.name} #{film.premier} #{film.director}"}
 
 #СОРТИРОВКА ПО АЛГОРИТМУ
-=begin 
-#movies.add_sort_algo(:genre_year) { |film| [film.genre, film.date] }
-#puts movies.sorted_by(:genre_year)
-#puts movies.sorted_by { |film| [film.genre, film.date] }
+=begin
+movies.add_sort_algo(:genre_year) { |film| [film.genre, film.date] }
+puts movies.sorted_by(:genre_year)
+puts movies.sorted_by { |film| [film.genre, film.date] }
 =end
 
 #СОРТИРОВКА ПО ФИЛЬТРАМ
@@ -55,3 +55,9 @@ puts movies.filter(
     rating_greater: [8]
   )
 =end
+
+#ИСПОЛЬЗОВАНИЕ methos_missing
+#puts movies[0].comedy?
+
+#ВЫВОД ЧЕРЕЗ print
+#movies[0].print
