@@ -2,10 +2,15 @@ require 'date'
 require 'pp'
 
 class Movie
+
+  class << self
+    def print_format(fmt); @format = fmt end
+    attr_reader :format
+  end
+
   attr_accessor :refer, :name, :country, :genre, :director
   attr_reader :weight
   @@filters = {}
-  @@print_formats = {}
   def initialize(*args)
     @refer, @name, @date, @country, @premier, @genre, @length, @rating, @director, @actors = args
   end
@@ -14,24 +19,18 @@ class Movie
     @@filters[self] = block
   end
 
-  def Movie.print_format(format)
-    @@print_formats[self] = format
-  end
-
-  def print
-    puts instance_eval(@@print_formats[self.class])
+  def to_s
+    puts self.class.format % to_h
   end
 
   def Movie.create(*data)
-    movie = 0
-    @@filters.each_pair { |name, construct| construct.call(data[2].to_i) ? movie = name.new(*data) : next }
-    movie
+    @@filters.find { |name, block| block.call(data[2].to_i) }.first.new(*data)
   end
 
-  def to_s
-    "Name: #{@name}  Length: #{@length}  Genre: #{genre} Country: #{@country} Date: #{@date}" 
+  def to_h
+    { refer: @refer, name: @name, date: @date, country: @country, premier: @premier, genre: @genre, length: @length, rating: @rating, director: @director, actors: @actors }
   end
-  
+
   def length
     @length.to_i
   end

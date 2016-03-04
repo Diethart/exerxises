@@ -6,6 +6,7 @@ require 'pp'
 require 'date'
 
 movies = MyMoviesList.new(ARGV[0],"|")
+movies[0].to_s
 
 #ТЕСТИРОВАНИЕ БАЗОВЫХ МЕТОДОВ СПИСКА ФИЛЬМОВ
 #puts movies.longest(5)
