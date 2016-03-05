@@ -4,9 +4,11 @@ require_relative 'movies_list'
 require_relative 'my_movies_list'
 require 'pp'
 require 'date'
+require 'nokogiri'
 
-movies = MyMoviesList.new(ARGV[0],"|")
-movies[0].to_s
+
+#movies = MyMoviesList.new(ARGV[0],"|")
+#movies[0].to_s
 
 #ТЕСТИРОВАНИЕ БАЗОВЫХ МЕТОДОВ СПИСКА ФИЛЬМОВ
 #puts movies.longest(5)

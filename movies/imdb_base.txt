@@ -1,0 +1,250 @@
+http://akas.imdb.com/title/tt0111161/|Побег из Шоушенка |1994|USA|1994-10-14|Crime,Drama|142 min|9.3|Frank Darabont|Tim Robbins,Morgan Freeman,Bob Gunton
+http://akas.imdb.com/title/tt0068646/|Крёстный отец |1972|Official site|1972-03-24|Crime,Drama|175 min|9.2|Francis Ford Coppola|Marlon Brando,Al Pacino,James Caan
+http://akas.imdb.com/title/tt0071562/|Крёстный отец 2 |1974|Official site|1974-12-20|Crime,Drama|202 min|9.0|Francis Ford Coppola|Al Pacino,Robert De Niro,Robert Duvall
+http://akas.imdb.com/title/tt0468569/|Тёмный рыцарь |2008|City of Gotham Police Department|2008-08-14|Action,Crime,Drama|152 min|9.0|Christopher Nolan|Christian Bale,Heath Ledger,Aaron Eckhart
+http://akas.imdb.com/title/tt0110912/|Криминальное чтиво |1994|Official site|1994-10-14|Crime,Drama|154 min|8.9|Quentin Tarantino|John Travolta,Uma Thurman,Samuel L. Jackson
+http://akas.imdb.com/title/tt0108052/|Список Шиндлера |1993|Official site|1994-02-04|Biography,Drama,History|195 min|8.9|Steven Spielberg|Liam Neeson,Ralph Fiennes,Ben Kingsley
+http://akas.imdb.com/title/tt0050083/|12 рaзгневанных мужчин |1957|USA|1957-04|Crime,Drama|96 min|8.9|Sidney Lumet|Henry Fonda,Lee J. Cobb,Martin Balsam
+http://akas.imdb.com/title/tt0167260/|Властелин колец: Возвращение короля |2003|Official site: The Lord of the Rings Trilogy|2004-01-22|Adventure,Drama,Fantasy|201 min|8.9|Peter Jackson|Elijah Wood,Viggo Mortensen,Ian McKellen
+http://akas.imdb.com/title/tt0060196/|Хороший, плохой, злой |1966|Spain|1966-12-23|Western|161 min|8.9|Sergio Leone|Clint Eastwood,Eli Wallach,Lee Van Cleef
+http://akas.imdb.com/title/tt0137523/|Бойцовский клуб |1999|USA|2000-01-13|Drama|139 min|8.9|David Fincher|Brad Pitt,Edward Norton,Helena Bonham Carter
+http://akas.imdb.com/title/tt0120737/|Властелин колец: Братство кольца |2001|Aurum [Spain]|2002-03-01|Adventure,Drama,Fantasy|178 min|8.8|Peter Jackson|Elijah Wood,Ian McKellen,Orlando Bloom
+http://akas.imdb.com/title/tt0080684/|Звёздные войны. Эпизод 5: Империя наносит ответный удар |1980|Official site|1980-06-20|Action,Adventure,Fantasy|124 min|8.8|Irvin Kershner|Mark Hamill,Harrison Ford,Carrie Fisher
+http://akas.imdb.com/title/tt0109830/|Форрест Гамп |1994|USA|1994-07-06|Drama,Romance|142 min|8.8|Robert Zemeckis|Tom Hanks,Robin Wright,Gary Sinise
+http://akas.imdb.com/title/tt1375666/|Начало |2010|Warner Bros. [Germany]|2010-07-22|Action,Mystery,Sci-Fi|148 min|8.8|Christopher Nolan|Leonardo DiCaprio,Joseph Gordon-Levitt,Ellen Page
+http://akas.imdb.com/title/tt0167261/|Властелин колец: Две крепости |2002|New Line Cinema|2003-01-23|Adventure,Drama,Fantasy|179 min|8.7|Peter Jackson|Elijah Wood,Ian McKellen,Viggo Mortensen
+http://akas.imdb.com/title/tt0073486/|Пролетая над гнездом кукушки |1975|English|1988-02|Drama|133 min|8.7|Milos Forman|Jack Nicholson,Louise Fletcher,Michael Berryman
+http://akas.imdb.com/title/tt0099685/|Славные парни |1990|USA|1990-09-21|Biography,Crime,Drama|146 min|8.7|Martin Scorsese|Robert De Niro,Ray Liotta,Joe Pesci
+http://akas.imdb.com/title/tt0133093/|Матрица |1999|USA|1999-10-14|Action,Sci-Fi|136 min|8.7|Andy Wachowski|Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss
+http://akas.imdb.com/title/tt0047478/|Семь самураев |1954|Japanese|1954-04-26|Drama|207 min|8.7|Akira Kurosawa|Toshirô Mifune,Takashi Shimura,Keiko Tsushima
+http://akas.imdb.com/title/tt0076759/|Звёздные войны. Эпизод 4: Новая надежда |1977|Official site|1990-09|Action,Adventure,Fantasy|121 min|8.7|George Lucas|Mark Hamill,Harrison Ford,Carrie Fisher
+http://akas.imdb.com/title/tt0317248/|Город Бога |2002|Mars Distribution (French)|2002|Crime,Drama|130 min|8.7|Fernando Meirelles|Alexandre Rodrigues,Matheus Nachtergaele,Leandro Firmino
+http://akas.imdb.com/title/tt0114369/|Семь |1995|USA|1995-09-22|Crime,Drama,Mystery|127 min|8.6|David Fincher|Morgan Freeman,Brad Pitt,Kevin Spacey
+http://akas.imdb.com/title/tt0102926/|Молчание ягнят |1991|USA|1991-02-14|Crime,Drama,Thriller|118 min|8.6|Jonathan Demme|Jodie Foster,Anthony Hopkins,Lawrence A. Bonney
+http://akas.imdb.com/title/tt0038650/|Эта замечательная жизнь |1946|English|1947-01-07|Drama,Family,Fantasy|130 min|8.6|Frank Capra|James Stewart,Donna Reed,Lionel Barrymore
+http://akas.imdb.com/title/tt0114814/|Подозрительные лица |1995|USA|1995-09-15|Crime,Drama,Mystery|106 min|8.6|Bryan Singer|Kevin Spacey,Gabriel Byrne,Chazz Palminteri
+http://akas.imdb.com/title/tt0118799/|Жизнь прекрасна |1997|Official site|1999-07-16|Comedy,Drama,Romance|116 min|8.6|Roberto Benigni|Roberto Benigni,Nicoletta Braschi,Giorgio Cantarini
+http://akas.imdb.com/title/tt0110413/|Леон |1994|English|1998-09-23|Crime,Drama,Thriller|110 min|8.6|Luc Besson|Jean Reno,Gary Oldman,Natalie Portman
+http://akas.imdb.com/title/tt0064116/|Однажды на Диком Западе |1968|USA|1968-12-21|Western|165 min|8.6|Sergio Leone|Henry Fonda,Charles Bronson,Claudia Cardinale
+http://akas.imdb.com/title/tt0245429/|Унесённые призраками |2001|Miyazaki collection|2001-07-20|Animation,Adventure,Family|125 min|8.6|Hayao Miyazaki|Daveigh Chase,Suzanne Pleshette,Miyu Irino
+http://akas.imdb.com/title/tt0120815/|Спасти рядового Райана |1998|USA|1998-10-09|Action,Drama,War|169 min|8.6|Steven Spielberg|Tom Hanks,Matt Damon,Tom Sizemore
+http://akas.imdb.com/title/tt0816692/|Интерстеллар |2014|Official site|2014-11-06|Adventure,Drama,Sci-Fi|169 min|8.6|Christopher Nolan|Matthew McConaughey,Anne Hathaway,Jessica Chastain
+http://akas.imdb.com/title/tt0034583/|Касабланка |1942|USA|1943-01-23|Drama,Romance,War|102 min|8.6|Michael Curtiz|Humphrey Bogart,Ingrid Bergman,Paul Henreid
+http://akas.imdb.com/title/tt0120586/|Американская история Икс |1998|USA|1998-11-20|Crime,Drama|119 min|8.6|Tony Kaye|Edward Norton,Edward Furlong,Beverly D'Angelo
+http://akas.imdb.com/title/tt0021749/|Огни большого города |1931|English|1931-03-07|Comedy,Drama,Romance|87 min|8.6|Charles Chaplin|Charles Chaplin,Virginia Cherrill,Florence Lee
+http://akas.imdb.com/title/tt0054215/|Психо |1960|English|1960-09-08|Horror,Mystery,Thriller|109 min|8.5|Alfred Hitchcock|Anthony Perkins,Janet Leigh,Vera Miles
+http://akas.imdb.com/title/tt0082971/|Индиана Джонс: В поисках утраченного ковчега |1981|Official Facebook|1981-06-15|Action,Adventure|115 min|8.5|Steven Spielberg|Harrison Ford,Karen Allen,Paul Freeman
+http://akas.imdb.com/title/tt0047396/|Окно во двор |1954|English|1954-08-01|Mystery,Thriller|112 min|8.5|Alfred Hitchcock|James Stewart,Grace Kelly,Wendell Corey
+http://akas.imdb.com/title/tt1675434/|1+1 |2011|Official Facebook [France]|2012-04-26|Biography,Comedy,Drama|112 min|8.6|Olivier Nakache|François Cluzet,Omar Sy,Anne Le Ny
+http://akas.imdb.com/title/tt0027977/|Modern Times |1936|English|1936-02-25|Comedy,Drama|87 min|8.6|Charles Chaplin|Charles Chaplin,Paulette Goddard,Henry Bergman
+http://akas.imdb.com/title/tt0120689/|Зелёная миля |1999|official site|1999-12-10|Crime,Drama,Fantasy|189 min|8.5|Frank Darabont|Tom Hanks,Michael Clarke Duncan,David Morse
+http://akas.imdb.com/title/tt0103064/|Терминатор 2: Судный день |1991|USA|1991-12-25|Action,Sci-Fi|137 min|8.5|James Cameron|Arnold Schwarzenegger,Linda Hamilton,Edward Furlong
+http://akas.imdb.com/title/tt0253474/|Пианист |2002|Official Site [United States]|2003-05-01|Biography,Drama,War|150 min|8.5|Roman Polanski|Adrien Brody,Thomas Kretschmann,Frank Finlay
+http://akas.imdb.com/title/tt0407887/|Отступники |2006|TFM Distribution [France]|2006-10-05|Crime,Drama,Thriller|151 min|8.5|Martin Scorsese|Leonardo DiCaprio,Matt Damon,Jack Nicholson
+http://akas.imdb.com/title/tt0088763/|Назад в будущее |1985|Official Facebook|1985-07-03|Adventure,Comedy,Sci-Fi|116 min|8.5|Robert Zemeckis|Michael J. Fox,Christopher Lloyd,Lea Thompson
+http://akas.imdb.com/title/tt2582802/|Одержимость |2014|Official site [France]|2014-10-23|Drama,Music|107 min|8.5|Damien Chazelle|Miles Teller,J.K. Simmons,Melissa Benoist
+http://akas.imdb.com/title/tt0209144/|Помни |2000|Official Facebook|2001-06-27|Mystery,Thriller|113 min|8.5|Christopher Nolan|Guy Pearce,Carrie-Anne Moss,Joe Pantoliano
+http://akas.imdb.com/title/tt0172495/|Гладиатор |2000|USA|2000-05-18|Action,Drama|155 min|8.5|Ridley Scott|Russell Crowe,Joaquin Phoenix,Connie Nielsen
+http://akas.imdb.com/title/tt0078788/|Апокалипсис сегодня |1979|USA|1979-08-15|Drama,War|153 min|8.5|Francis Ford Coppola|Martin Sheen,Marlon Brando,Robert Duvall
+http://akas.imdb.com/title/tt0482571/|Престиж |2006|Warner Bros [France]|2007-01-18|Drama,Mystery,Sci-Fi|130 min|8.5|Christopher Nolan|Christian Bale,Hugh Jackman,Scarlett Johansson
+http://akas.imdb.com/title/tt0057012/|Доктор Стрейнджлав, или Как я научился не волноваться и полюбил атомную бомбу |1964|USA|1964-01-29|Comedy|95 min|8.5|Stanley Kubrick|Peter Sellers,George C. Scott,Sterling Hayden
+http://akas.imdb.com/title/tt0043014/|Sunset Blvd. |1950|English|1950-08-25|Drama,Film-Noir|110 min|8.5|Billy Wilder|William Holden,Gloria Swanson,Erich von Stroheim
+http://akas.imdb.com/title/tt0110357/|Король Лев |1994|Official site|1994-06-24|Animation,Adventure,Drama|89 min|8.5|Roger Allers|Matthew Broderick,Jeremy Irons,James Earl Jones
+http://akas.imdb.com/title/tt0078748/|Чужoй |1979|USA|1979-05-28|Horror,Sci-Fi|117 min|8.5|Ridley Scott|Sigourney Weaver,Tom Skerritt,John Hurt
+http://akas.imdb.com/title/tt0032553/|Великий диктатор |1940|English|1941-03-07|Comedy,Drama,War|125 min|8.5|Charles Chaplin|Charles Chaplin,Paulette Goddard,Jack Oakie
+http://akas.imdb.com/title/tt0405094/|Жизнь других |2006|Germany|2007-07-19|Drama,Thriller|137 min|8.5|Florian Henckel von Donnersmarck|Ulrich Mühe,Martina Gedeck,Sebastian Koch
+http://akas.imdb.com/title/tt0095765/|Nuovo Cinema Paradiso |1988|Official Facebook|1988-11-17|Drama|155 min|8.5|Giuseppe Tornatore|Philippe Noiret,Enzo Cannavale,Antonella Attili
+http://akas.imdb.com/title/tt1853728/|Джанго освобожденный |2012|Official site|2013-01-17|Drama,Western|165 min|8.5|Quentin Tarantino|Jamie Foxx,Christoph Waltz,Leonardo DiCaprio
+http://akas.imdb.com/title/tt0081505/|Сияние |1980|USA|1980-05-23|Drama,Horror|144 min|8.4|Stanley Kubrick|Jack Nicholson,Shelley Duvall,Danny Lloyd
+http://akas.imdb.com/title/tt0050825/|Тропы славы |1957|West Germany|1957-10-25|Drama,War|88 min|8.5|Stanley Kubrick|Kirk Douglas,Ralph Meeker,Adolphe Menjou
+http://akas.imdb.com/title/tt0095327/|Могила светлячков |1988|Japanese|1988-04-16|Animation,Drama,War|89 min|8.5|Isao Takahata|Tsutomu Tatsumi,Ayano Shiraishi,Akemi Yamaguchi
+http://akas.imdb.com/title/tt1345836/|Темный рыцарь: Возрождение легенды |2012|Official site|2012-07-26|Action,Thriller|164 min|8.5|Christopher Nolan|Christian Bale,Tom Hardy,Anne Hathaway
+http://akas.imdb.com/title/tt0910970/|ВАЛЛ-И |2008|Disney [UK]|2008-07-03|Animation,Adventure,Family|98 min|8.4|Andrew Stanton|Ben Burtt,Elissa Knight,Jeff Garlin
+http://akas.imdb.com/title/tt0169547/|Красота по-американски |1999|Official Facebook|2000-03-22|Drama,Romance|122 min|8.4|Sam Mendes|Kevin Spacey,Annette Bening,Thora Birch
+http://akas.imdb.com/title/tt0090605/|Чужиe |1986|UK|1994-03-25|Action,Horror,Sci-Fi|137 min|8.4|James Cameron|Sigourney Weaver,Michael Biehn,Carrie Henn
+http://akas.imdb.com/title/tt0119698/|Принцесса Мононокэ |1997|Japan|1997-07-12|Animation,Adventure,Fantasy|134 min|8.4|Hayao Miyazaki|Yôji Matsuda,Yuriko Ishida,Yûko Tanaka
+http://akas.imdb.com/title/tt0364569/|Олдбой |2003|Wild Side Films [France]|2004-11-17|Drama,Mystery,Thriller|120 min|8.4|Chan-wook Park|Min-sik Choi,Ji-tae Yu,Hye-jeong Kang
+http://akas.imdb.com/title/tt0033467/|Гражданин Кейн |1941|English|1941-09-05|Drama,Mystery|119 min|8.4|Orson Welles|Orson Welles,Joseph Cotten,Dorothy Comingore
+http://akas.imdb.com/title/tt0053125/|North by Northwest |1959|English|1959-09-26|Adventure,Crime,Mystery|136 min|8.4|Alfred Hitchcock|Cary Grant,Eva Marie Saint,James Mason
+http://akas.imdb.com/title/tt0087843/|Однажды в Америке |1984|Italy|1984-06-01|Crime,Drama|229 min|8.4|Sergio Leone|Robert De Niro,James Woods,Elizabeth McGovern
+http://akas.imdb.com/title/tt0052357/|Головокружение |1958|English|1958|Mystery,Romance,Thriller|128 min|8.4|Alfred Hitchcock|James Stewart,Kim Novak,Barbara Bel Geddes
+http://akas.imdb.com/title/tt0082096/|Подводная лодка |1981|West Germany|1981-09-17|Adventure,Drama,Thriller|149 min|8.4|Wolfgang Petersen|Jürgen Prochnow,Herbert Grönemeyer,Klaus Wennemann
+http://akas.imdb.com/title/tt0086190/|Звёздные войны. Эпизод 6: Возвращение Джедая |1983|Official site|1983-05-25|Action,Adventure,Fantasy|131 min|8.4|Richard Marquand|Mark Hamill,Harrison Ford,Carrie Fisher
+http://akas.imdb.com/title/tt0022100/|М |1931|German|1931-08-31|Crime,Drama,Mystery|117 min|8.4|Fritz Lang|Peter Lorre,Ellen Widmann,Inge Landgut
+http://akas.imdb.com/title/tt0051201/|Свидетель обвинения |1957|English|1958-02-06|Drama,Mystery|116 min|8.4|Billy Wilder|Tyrone Power,Marlene Dietrich,Charles Laughton
+http://akas.imdb.com/title/tt1431045/|Дэдпул |2016|Official Facebook|2016-02-11|Action,Adventure,Comedy|108 min|8.5|Tim Miller|Ryan Reynolds,Morena Baccarin,T.J. Miller
+http://akas.imdb.com/title/tt0211915/|Амели |2001|Official site|2001-04-25|Comedy,Romance|122 min|8.4|Jean-Pierre Jeunet|Audrey Tautou,Mathieu Kassovitz,Rufus
+http://akas.imdb.com/title/tt0105236/|Бешеные псы |1992|Official site|1992-09-02|Crime,Thriller|99 min|8.4|Quentin Tarantino|Harvey Keitel,Tim Roth,Michael Madsen
+http://akas.imdb.com/title/tt0112573/|Храброе сердце |1995|English|1995-05-24|Biography,Drama,History|178 min|8.4|Mel Gibson|Mel Gibson,Sophie Marceau,Patrick McGoohan
+http://akas.imdb.com/title/tt0180093/|Реквием по мечте |2000|USA|2001-04-19|Drama|102 min|8.4|Darren Aronofsky|Ellen Burstyn,Jared Leto,Jennifer Connelly
+http://akas.imdb.com/title/tt0066921/|Заводной апельсин |1971|USA|1972-01-13|Crime,Drama,Sci-Fi|136 min|8.4|Stanley Kubrick|Malcolm McDowell,Patrick Magee,Michael Bates
+http://akas.imdb.com/title/tt0075314/|Таксист |1976|USA|1976-02-08|Crime,Drama|113 min|8.3|Martin Scorsese|Robert De Niro,Jodie Foster,Cybill Shepherd
+http://akas.imdb.com/title/tt0435761/|История игрушек: Большой побег |2010|Disney [UK]|2010-06-17|Animation,Adventure,Comedy|103 min|8.4|Lee Unkrich|Tom Hanks,Tim Allen,Joan Cusack
+http://akas.imdb.com/title/tt0036775/|Двойная страховка |1944|USA|1944-04-24|Crime,Drama,Film-Noir|107 min|8.4|Billy Wilder|Fred MacMurray,Barbara Stanwyck,Edward G. Robinson
+http://akas.imdb.com/title/tt0056592/|Убить пересмешника |1962|USA|1966-12-12|Crime,Drama|129 min|8.4|Robert Mulligan|Gregory Peck,John Megna,Frank Overton
+http://akas.imdb.com/title/tt0056172/|Лоуренс Аравийский |1962|UK|1962-12-11|Adventure,Biography,Drama|216 min|8.4|David Lean|Peter O'Toole,Alec Guinness,Anthony Quinn
+http://akas.imdb.com/title/tt0338013/|Вечное сияние чистого разума |2004|Official Facebook|2004-04-29|Drama,Romance,Sci-Fi|108 min|8.4|Michel Gondry|Jim Carrey,Kate Winslet,Tom Wilkinson
+http://akas.imdb.com/title/tt2488496/|Звёздные войны: Пробуждение Силы |2015|Official Facebook [Japan]|2015-12-17|Action,Adventure,Fantasy|135 min|8.4|J.J. Abrams|Daisy Ridley,John Boyega,Oscar Isaac
+http://akas.imdb.com/title/tt0093058/|Цельнометаллическая оболочка |1987|USA|1987-07-10|Drama,War|116 min|8.3|Stanley Kubrick|Matthew Modine,R. Lee Ermey,Vincent D'Onofrio
+http://akas.imdb.com/title/tt0086879/|Амадей |1984|USA|1984-10-31|Biography,Drama,Music|160 min|8.3|Milos Forman|F. Murray Abraham,Tom Hulce,Elizabeth Berridge
+http://akas.imdb.com/title/tt0070735/|Афера |1973|English|1973-12-26|Comedy,Crime,Drama|129 min|8.3|George Roy Hill|Paul Newman,Robert Redford,Robert Shaw
+http://akas.imdb.com/title/tt0045152/|Поющие под дождём |1952|English|1952-04-11|Comedy,Musical,Romance|103 min|8.3|Stanley Donen|Gene Kelly,Donald O'Connor,Debbie Reynolds
+http://akas.imdb.com/title/tt0040522/|Похитители велосипедов |1948|Italian|1948-11-24|Drama|89 min|8.4|Vittorio De Sica|Lamberto Maggiorani,Enzo Staiola,Lianella Carell
+http://akas.imdb.com/title/tt0062622/|2001: A Space Odyssey |1968|UK|1968-05-15|Mystery,Sci-Fi|149 min|8.3|Stanley Kubrick|Keir Dullea,Gary Lockwood,William Sylvester
+http://akas.imdb.com/title/tt0208092/|Большой куш |2000|UK|2001-05-10|Comedy,Crime|104 min|8.3|Guy Ritchie|Jason Statham,Brad Pitt,Benicio Del Toro
+http://akas.imdb.com/title/tt0071853/|Монти Пайтон и священный Грааль |1975|English|1979-12-10|Adventure,Comedy,Fantasy|91 min|8.3|Terry Gilliam|Graham Chapman,John Cleese,Eric Idle
+http://akas.imdb.com/title/tt0114709/|История игрушек |1995|Official site|1995-11-22|Animation,Adventure,Comedy|81 min|8.3|John Lasseter|Tom Hanks,Tim Allen,Don Rickles
+http://akas.imdb.com/title/tt0012349/|Малыш |1921|English|1921-02-06|Comedy,Drama,Family|68 min|8.4|Charles Chaplin|Charles Chaplin,Edna Purviance,Jackie Coogan
+http://akas.imdb.com/title/tt0361748/|Бесславные ублюдки |2009|Official site [Russia]|2009-08-20|Adventure,Drama,War|153 min|8.3|Quentin Tarantino|Brad Pitt,Diane Kruger,Eli Roth
+http://akas.imdb.com/title/tt0119488/|Секреты Лос-Анджелеса |1997|USA|1998-02-17|Crime,Drama,Mystery|138 min|8.3|Curtis Hanson|Kevin Spacey,Russell Crowe,Guy Pearce
+http://akas.imdb.com/title/tt0059578/|Per qualche dollaro in più |1965|Spain|1965-12-18|Western|132 min|8.3|Sergio Leone|Clint Eastwood,Lee Van Cleef,Gian Maria Volontè
+http://akas.imdb.com/title/tt0042876/|Расёмон |1950|Japanese|1950-08-25|Crime,Drama|88 min|8.3|Akira Kurosawa|Toshirô Mifune,Machiko Kyô,Masayuki Mori
+http://akas.imdb.com/title/tt0053604/|The Apartment |1960|English|1960-09-16|Comedy,Drama,Romance|125 min|8.3|Billy Wilder|Jack Lemmon,Shirley MacLaine,Fred MacMurray
+http://akas.imdb.com/title/tt0097576/|Indiana Jones and the Last Crusade |1989|Official Facebook|1989-05-24|Action,Adventure,Fantasy|127 min|8.3|Steven Spielberg|Harrison Ford,Sean Connery,Alison Doody
+http://akas.imdb.com/title/tt1832382/|Развод Надера и Симин |2011|Memento Films [France]|2011-11-24|Drama|123 min|8.4|Asghar Farhadi|Peyman Moaadi,Leila Hatami,Sareh Bayat
+http://akas.imdb.com/title/tt0042192/|Всё о Еве |1950|English|1951-01-15|Drama|138 min|8.3|Joseph L. Mankiewicz|Bette Davis,Anne Baxter,George Sanders
+http://akas.imdb.com/title/tt0086250/|Лицо со шрамом |1983|English|1983-12-09|Crime,Drama|170 min|8.3|Brian De Palma|Al Pacino,Michelle Pfeiffer,Steven Bauer
+http://akas.imdb.com/title/tt0017136/|Metropolis |1927|Germany|1927-03-05|Drama,Sci-Fi|153 min|8.3|Fritz Lang|Brigitte Helm,Alfred Abel,Gustav Fröhlich
+http://akas.imdb.com/title/tt0040897/|Сокровища Сьерра-Мадре |1948|English|1948-01-24|Action,Adventure,Drama|126 min|8.3|John Huston|Humphrey Bogart,Walter Huston,Tim Holt
+http://akas.imdb.com/title/tt0055630/|Yôjinbô |1961|Japanese|1961-04-25|Comedy,Drama|110 min|8.3|Akira Kurosawa|Toshirô Mifune,Eijirô Tôno,Tatsuya Nakadai
+http://akas.imdb.com/title/tt0372784/|Бэтмен: Начало |2005|Warner Bros [France]|2005-06-16|Action,Adventure|140 min|8.3|Christopher Nolan|Christian Bale,Michael Caine,Ken Watanabe
+http://akas.imdb.com/title/tt2096673/|Головоломка |2015|Official Site [France]|2015-06-18|Animation,Adventure,Comedy|95 min|8.3|Pete Docter|Amy Poehler,Bill Hader,Lewis Black
+http://akas.imdb.com/title/tt0053291/|В джазе только девушки |1959|English|1959-03-29|Comedy,Romance|120 min|8.3|Billy Wilder|Marilyn Monroe,Tony Curtis,Jack Lemmon
+http://akas.imdb.com/title/tt1187043/|Три идиота |2009|India|2009-12-25|Comedy,Drama|170 min|8.4|Rajkumar Hirani|Aamir Khan,Madhavan,Mona Singh
+http://akas.imdb.com/title/tt0105695/|Непрощённый |1992|USA|1992-08-07|Western|131 min|8.3|Clint Eastwood|Clint Eastwood,Gene Hackman,Morgan Freeman
+http://akas.imdb.com/title/tt0041959/|The Third Man |1949|English|1949-08-31|Film-Noir,Mystery,Thriller|104 min|8.3|Carol Reed|Orson Welles,Joseph Cotten,Alida Valli
+http://akas.imdb.com/title/tt2106476/|Охота |2012|Official site|2013-02-21|Drama|115 min|8.3|Thomas Vinterberg|Mads Mikkelsen,Thomas Bo Larsen,Annika Wedderkopp
+http://akas.imdb.com/title/tt1049413/|Вверх |2009|Official site|2009-05-28|Animation,Adventure,Comedy|96 min|8.3|Pete Docter|Edward Asner,Jordan Nagai,John Ratzenberger
+http://akas.imdb.com/title/tt0119217/|Умница Уилл Хантинг |1997|Official site|1998-01-09|Drama|126 min|8.3|Gus Van Sant|Robin Williams,Matt Damon,Ben Affleck
+http://akas.imdb.com/title/tt3170832/|Комната |2015|Official site [Japan]|2016-01-15|Drama|118 min|8.3|Lenny Abrahamson|Brie Larson,Jacob Tremblay,Sean Bridgers
+http://akas.imdb.com/title/tt0081398/|Бешеный бык |1980|English|1980-12-19|Biography,Drama,Sport|129 min|8.3|Martin Scorsese|Robert De Niro,Cathy Moriarty,Joe Pesci
+http://akas.imdb.com/title/tt0363163/|Бункер |2004|Germany|2004-09-16|Biography,Drama,History|156 min|8.3|Oliver Hirschbiegel|Bruno Ganz,Alexandra Maria Lara,Ulrich Matthes
+http://akas.imdb.com/title/tt0095016/|Крепкий орешек |1988|USA|1988-07-20|Action,Thriller|131 min|8.2|John McTiernan|Bruce Willis,Alan Rickman,Bonnie Bedelia
+http://akas.imdb.com/title/tt0071315/|Chinatown |1974|English|1974-06-20|Drama,Mystery,Thriller|130 min|8.3|Roman Polanski|Jack Nicholson,Faye Dunaway,John Huston
+http://akas.imdb.com/title/tt0057115/|The Great Escape |1963|English|1963-07-04|Adventure,Drama,History|172 min|8.3|John Sturges|Steve McQueen,James Garner,Richard Attenborough
+http://akas.imdb.com/title/tt0113277/|Схватка |1995|English|1995-12-15|Action,Crime,Drama|170 min|8.2|Michael Mann|Al Pacino,Robert De Niro,Val Kilmer
+http://akas.imdb.com/title/tt0047296/|On the Waterfront |1954|USA|1954-06-22|Crime,Drama,Thriller|108 min|8.3|Elia Kazan|Marlon Brando,Karl Malden,Lee J. Cobb
+http://akas.imdb.com/title/tt0457430/|Лабиринт Фавна |2006|Official site [Spain]|2006-11-30|Drama,Fantasy,War|118 min|8.2|Guillermo del Toro|Ivana Baquero,Ariadna Gil,Sergi López
+http://akas.imdb.com/title/tt0018455/|Sunrise: A Song of Two Humans |1927|Big Bear Lake, Big Bear Valley, San Bernardino National Forest, California, USA|1927-11-04|Drama,Romance|94 min|8.3|F.W. Murnau|George O'Brien,Janet Gaynor,Margaret Livingston
+http://akas.imdb.com/title/tt0096283/|Мой сосед Тоторо |1988|Japan|1988-04-16|Animation,Family,Fantasy|86 min|8.3|Hayao Miyazaki|Hitoshi Takagi,Noriko Hidaka,Chika Sakamoto
+http://akas.imdb.com/title/tt0031679/|Mr. Smith Goes to Washington |1939|English|1939-10-19|Drama|129 min|8.3|Frank Capra|James Stewart,Jean Arthur,Claude Rains
+http://akas.imdb.com/title/tt0044741/|Ikiru |1952|Japanese|1952-10-09|Drama|143 min|8.3|Akira Kurosawa|Takashi Shimura,Nobuo Kaneko,Shin'ichi Himori
+http://akas.imdb.com/title/tt0050212/|The Bridge on the River Kwai |1957|USA|1957-10-11|Adventure,Drama,War|161 min|8.2|David Lean|William Holden,Alec Guinness,Jack Hawkins
+http://akas.imdb.com/title/tt0015864/|The Gold Rush |1925|English|1925|Adventure,Comedy,Drama|95 min|8.3|Charles Chaplin|Charles Chaplin,Mack Swain,Tom Murray
+http://akas.imdb.com/title/tt0089881/|Ran |1985|France|1985-06-01|Action,Drama,War|162 min|8.3|Akira Kurosawa|Tatsuya Nakadai,Akira Terao,Jinpachi Nezu
+http://akas.imdb.com/title/tt0050976/|Седьмая печать |1957|Swedish|1957-02-16|Drama,Fantasy|96 min|8.2|Ingmar Bergman|Max von Sydow,Gunnar Björnstrand,Bengt Ekerot
+http://akas.imdb.com/title/tt1305806/|Тайна в его глазах |2009|Official site [Argentina]|2010-09-30|Drama,Mystery,Thriller|129 min|8.2|Juan José Campanella|Ricardo Darín,Soledad Villamil,Pablo Rago
+http://akas.imdb.com/title/tt0083658/|Blade Runner |1982|Warner Bros [France]|1982-06-25|Sci-Fi,Thriller|117 min|8.2|Ridley Scott|Harrison Ford,Rutger Hauer,Sean Young
+http://akas.imdb.com/title/tt0120735/|Карты, деньги, два ствола |1998|English|1998-08-28|Comedy,Crime|107 min|8.2|Guy Ritchie|Jason Flemyng,Dexter Fletcher,Nick Moran
+http://akas.imdb.com/title/tt0017925/|The General |1926|English|1929|Action,Adventure,Comedy|67 min|8.3|Clyde Bruckman|Buster Keaton,Marion Mack,Glen Cavender
+http://akas.imdb.com/title/tt0050986/|Земляничная поляна |1957|Swedish|1957-12-26|Drama,Romance|91 min|8.3|Ingmar Bergman|Victor Sjöström,Bibi Andersson,Ingrid Thulin
+http://akas.imdb.com/title/tt0347149/|Ходячий замок |2004|Japan|2005-08-27|Animation,Adventure,Family|119 min|8.2|Hayao Miyazaki|Chieko Baishô,Takuya Kimura,Tatsuya Gashûin
+http://akas.imdb.com/title/tt0112641/|Казино |1995|France|1995-11-22|Biography,Crime,Drama|178 min|8.2|Martin Scorsese|Robert De Niro,Sharon Stone,Joe Pesci
+http://akas.imdb.com/title/tt0080678/|The Elephant Man |1980|UK|1980-10-10|Biography,Drama|124 min|8.2|David Lynch|Anthony Hopkins,John Hurt,Anne Bancroft
+http://akas.imdb.com/title/tt1291584/|Воин |2011|USA|2011-09-09|Drama,Sport|140 min|8.2|Gavin O'Connor|Tom Hardy,Nick Nolte,Joel Edgerton
+http://akas.imdb.com/title/tt0993846/|Волк с Уолл-стрит |2013|Official site|2014-02-06|Biography,Comedy,Crime|180 min|8.2|Martin Scorsese|Leonardo DiCaprio,Jonah Hill,Margot Robbie
+http://akas.imdb.com/title/tt0434409/|В значит Вендетта |2005|Warner Bros [France]|2006-04-20|Action,Drama,Thriller|132 min|8.2|James McTeigue|Hugo Weaving,Natalie Portman,Rupert Graves
+http://akas.imdb.com/title/tt0055031/|Judgment at Nuremberg |1961|English|1961-12-18|Drama,History,War|186 min|8.3|Stanley Kramer|Spencer Tracy,Burt Lancaster,Richard Widmark
+http://akas.imdb.com/title/tt0268978/|Игры разума |2001|Universal [United States]|2002-02-27|Biography,Drama|135 min|8.2|Ron Howard|Russell Crowe,Ed Harris,Jennifer Connelly
+http://akas.imdb.com/title/tt1205489/|Гран Торино |2008|Official site [Japan]|2009-04-09|Drama|116 min|8.2|Clint Eastwood|Clint Eastwood,Bee Vang,Christopher Carley
+http://akas.imdb.com/title/tt0118715/|Большой Лебовски |1998|UK|1998-03-06|Comedy,Crime|117 min|8.2|Joel Coen|Jeff Bridges,John Goodman,Julianne Moore
+http://akas.imdb.com/title/tt0032976/|Rebecca |1940|English|1940-04-12|Drama,Film-Noir,Mystery|130 min|8.2|Alfred Hitchcock|Laurence Olivier,Joan Fontaine,George Sanders
+http://akas.imdb.com/title/tt0077416/|The Deer Hunter |1978|USA|1979-02-23|Drama,War|183 min|8.2|Michael Cimino|Robert De Niro,Christopher Walken,John Cazale
+http://akas.imdb.com/title/tt1255953/|Пожары |2010|Official Facebook [United States]|2011-12-15|Drama,Mystery,War|139 min|8.2|Denis Villeneuve|Lubna Azabal,Mélissa Désormeaux-Poulin,Maxim Gaudette
+http://akas.imdb.com/title/tt1663202/|Выживший |2015|Official Site|2016-01-07|Adventure,Drama,Thriller|156 min|8.2|Alejandro González Iñárritu|Leonardo DiCaprio,Tom Hardy,Will Poulter
+http://akas.imdb.com/title/tt0061512/|Хладнокровный Люк |1967|English|1967-11-01|Crime,Drama|126 min|8.2|Stuart Rosenberg|Paul Newman,George Kennedy,Strother Martin
+http://akas.imdb.com/title/tt0031381/|Унесённые ветром |1939|USA|1940-01-17|Drama,Romance,War|238 min|8.2|Victor Fleming|Clark Gable,Vivien Leigh,Thomas Mitchell
+http://akas.imdb.com/title/tt0116282/|Фарго |1996|USA|1996-04-05|Crime,Drama,Thriller|98 min|8.2|Joel Coen|William H. Macy,Frances McDormand,Steve Buscemi
+http://akas.imdb.com/title/tt0117951/|На игле |1996|Official site|1996-02-23|Drama|94 min|8.2|Danny Boyle|Ewan McGregor,Ewen Bremner,Jonny Lee Miller
+http://akas.imdb.com/title/tt0892769/|Как приручить дракона |2010|Official site|2010-03-18|Animation,Action,Adventure|98 min|8.2|Dean DeBlois|Jay Baruchel,Gerard Butler,Christopher Mintz-Plasse
+http://akas.imdb.com/title/tt0046912/|Dial M for Murder |1954|English|1954-05-29|Crime,Thriller|105 min|8.2|Alfred Hitchcock|Ray Milland,Grace Kelly,Robert Cummings
+http://akas.imdb.com/title/tt0167404/|Шестое чувство |1999|English|1999-08-06|Drama,Mystery,Thriller|107 min|8.1|M. Night Shyamalan|Bruce Willis,Haley Joel Osment,Toni Collette
+http://akas.imdb.com/title/tt0758758/|В диких условиях |2007|USA|2007-10-19|Adventure,Biography,Drama|148 min|8.2|Sean Penn|Emile Hirsch,Vince Vaughn,Catherine Keener
+http://akas.imdb.com/title/tt0266543/|В поисках Немо |2003|Official Facebook|2003-12-25|Animation,Adventure,Comedy|100 min|8.1|Andrew Stanton|Albert Brooks,Ellen DeGeneres,Alexander Gould
+http://akas.imdb.com/title/tt0084787/|The Thing |1982|USA|1982-06-28|Horror,Sci-Fi|109 min|8.2|John Carpenter|Kurt Russell,Wilford Brimley,Keith David
+http://akas.imdb.com/title/tt0477348/|Старикам тут не место |2007|Official site|2008-01-31|Crime,Drama,Thriller|122 min|8.1|Ethan Coen|Tommy Lee Jones,Javier Bardem,Josh Brolin
+http://akas.imdb.com/title/tt0025316/|It Happened One Night |1934|English|1934-02-23|Comedy,Romance|105 min|8.2|Frank Capra|Clark Gable,Claudette Colbert,Walter Connolly
+http://akas.imdb.com/title/tt0978762/|Мэри и Макс |2009|Official site [Germany]|2009-12-03|Animation,Comedy,Drama|92 min|8.2|Adam Elliot|Toni Collette,Philip Seymour Hoffman,Eric Bana
+http://akas.imdb.com/title/tt2267998/|Исчезнувшая |2014|Official Site|2014-10-02|Crime,Drama,Mystery|149 min|8.1|David Fincher|Ben Affleck,Rosamund Pike,Neil Patrick Harris
+http://akas.imdb.com/title/tt1895587/|В центре внимания |2015|Official Site|2016-02-11|Biography,Drama,History|128 min|8.2|Tom McCarthy|Mark Ruffalo,Michael Keaton,Rachel McAdams
+http://akas.imdb.com/title/tt0266697/|Убить Билла |2003|Official site|2003-12-04|Action|111 min|8.1|Quentin Tarantino|Uma Thurman,David Carradine,Daryl Hannah
+http://akas.imdb.com/title/tt1979320/|Гонка |2013|Official site [Japan]|2013-10-17|Action,Biography,Drama|123 min|8.2|Ron Howard|Daniel Brühl,Chris Hemsworth,Olivia Wilde
+http://akas.imdb.com/title/tt1392190/|Безумный Макс: Дорога ярости |2015|Official site [France]|2015-05-14|Action,Adventure,Sci-Fi|120 min|8.2|George Miller|Tom Hardy,Charlize Theron,Nicholas Hoult
+http://akas.imdb.com/title/tt0079470/|Life of Brian |1979|English|1979-11-08|Comedy|94 min|8.1|Terry Jones|Graham Chapman,John Cleese,Michael Palin
+http://akas.imdb.com/title/tt0033870/|The Maltese Falcon |1941|English|1941-10-18|Crime,Drama,Film-Noir|100 min|8.2|John Huston|Humphrey Bogart,Mary Astor,Gladys George
+http://akas.imdb.com/title/tt0395169/|Отель Руанда |2004|MGM/United Artists [United States]|2005-02-04|Drama,History,War|121 min|8.1|Terry George|Don Cheadle,Sophie Okonedo,Joaquin Phoenix
+http://akas.imdb.com/title/tt0091763/|Platoon |1986|UK|1987-02-06|Drama,War|120 min|8.1|Oliver Stone|Charlie Sheen,Tom Berenger,Willem Dafoe
+http://akas.imdb.com/title/tt0469494/|И будет кровь |2007|Official site|2008-02-28|Drama|158 min|8.1|Paul Thomas Anderson|Daniel Day-Lewis,Paul Dano,Ciarán Hinds
+http://akas.imdb.com/title/tt0046268/|Le salaire de la peur |1953|Italy|1955|Adventure,Drama,Thriller|131 min|8.2|Henri-Georges Clouzot|Yves Montand,Charles Vanel,Peter van Eyck
+http://akas.imdb.com/title/tt0074958/|Network |1976|English|1976-11-27|Drama|121 min|8.1|Sidney Lumet|Faye Dunaway,William Holden,Peter Finch
+http://akas.imdb.com/title/tt0064115/|Бутч Кэссиди и Санденс Кид |1969|English|1969-10-24|Biography,Crime,Drama|110 min|8.1|George Roy Hill|Paul Newman,Robert Redford,Katharine Ross
+http://akas.imdb.com/title/tt0053198/|Les quatre cents coups |1959|French|1959-06-03|Crime,Drama|99 min|8.2|François Truffaut|Jean-Pierre Léaud,Albert Rémy,Claire Maurier
+http://akas.imdb.com/title/tt0092005/|Останься со мной |1986|USA|1986-08-22|Adventure,Drama|89 min|8.1|Rob Reiner|Wil Wheaton,River Phoenix,Corey Feldman
+http://akas.imdb.com/title/tt0060827/|Персона |1966|Swedish|1966-10-18|Drama,Thriller|85 min|8.2|Ingmar Bergman|Bibi Andersson,Liv Ullmann,Margaretha Krook
+http://akas.imdb.com/title/tt0107207/|Во имя отца |1993|UK|1993-12-27|Biography,Drama,History|133 min|8.1|Jim Sheridan|Daniel Day-Lewis,Pete Postlethwaite,Alison Crosbie
+http://akas.imdb.com/title/tt2024544/|12 лет рабства |2013|Official site|2013-12-12|Biography,Drama,History|134 min|8.1|Steve McQueen|Chiwetel Ejiofor,Michael Kenneth Williams,Michael Fassbender
+http://akas.imdb.com/title/tt1130884/|Остров проклятых |2010|Official site [France]|2010-02-18|Mystery,Thriller|138 min|8.1|Martin Scorsese|Leonardo DiCaprio,Emily Mortimer,Mark Ruffalo
+http://akas.imdb.com/title/tt2278388/|Отель Гранд Будапешт |2014|Official site|2014-03-13|Adventure,Comedy,Drama|99 min|8.1|Wes Anderson|Ralph Fiennes,F. Murray Abraham,Mathieu Amalric
+http://akas.imdb.com/title/tt0245712/|Сука любовь |2000|Mexico|2000-06-16|Drama,Thriller|154 min|8.1|Alejandro González Iñárritu|Emilio Echevarría,Gael García Bernal,Goya Toledo
+http://akas.imdb.com/title/tt0093779/|The Princess Bride |1987|Official site|1987-10-09|Adventure,Comedy,Family|98 min|8.1|Rob Reiner|Cary Elwes,Mandy Patinkin,Robin Wright
+http://akas.imdb.com/title/tt0052311/|Touch of Evil |1958|English|1958-05-01|Crime,Film-Noir,Thriller|95 min|8.1|Orson Welles|Charlton Heston,Orson Welles,Janet Leigh
+http://akas.imdb.com/title/tt0405159/|Малышка на миллион |2004|Official Facebook|2005-01-28|Drama,Sport|132 min|8.1|Clint Eastwood|Hilary Swank,Clint Eastwood,Morgan Freeman
+http://akas.imdb.com/title/tt0052618/|Ben-Hur |1959|USA|1959-12-26|Adventure,Drama,War|212 min|8.1|William Wyler|Charlton Heston,Jack Hawkins,Stephen Boyd
+http://akas.imdb.com/title/tt0075686/|Annie Hall |1977|USA|1977-04-20|Comedy,Romance|93 min|8.1|Woody Allen|Woody Allen,Diane Keaton,Tony Roberts
+http://akas.imdb.com/title/tt3011894/|Дикие истории |2014|Official Facebook|2014-08-21|Comedy,Drama,Thriller|122 min|8.1|Damián Szifrón|Darío Grandinetti,María Marull,Mónica Villa
+http://akas.imdb.com/title/tt0032551/|The Grapes of Wrath |1940|English|1940-03-15|Drama|129 min|8.1|John Ford|Henry Fonda,Jane Darwell,John Carradine
+http://akas.imdb.com/title/tt1028532/|Хатико: самый верный друг |2009|Official site [Germany]|2009-10-22|Drama,Family|93 min|8.2|Lasse Hallström|Richard Gere,Joan Allen,Cary-Hiroyuki Tagawa
+http://akas.imdb.com/title/tt0087544/|Навсикая из Долины ветров |1984|Official site|1984-03-11|Animation,Adventure,Fantasy|117 min|8.1|Hayao Miyazaki|Sumi Shimamoto,Mahito Tsujimura,Hisako Kyôda
+http://akas.imdb.com/title/tt0079944/|Stalker |1979|Russian|1980-05-19|Drama,Sci-Fi|163 min|8.2|Andrei Tarkovsky|Alisa Freyndlikh,Aleksandr Kaydanovskiy,Anatoliy Solonitsyn
+http://akas.imdb.com/title/tt0107290/|Парк юрского периода |1993|Official site [Brazil]|1993-06-11|Adventure,Sci-Fi,Thriller|127 min|8.1|Steven Spielberg|Sam Neill,Laura Dern,Jeff Goldblum
+http://akas.imdb.com/title/tt0046911/|Les diaboliques |1955|French|1955-01-29|Drama,Horror,Mystery|116 min|8.1|Henri-Georges Clouzot|Simone Signoret,Véra Clouzot,Paul Meurisse
+http://akas.imdb.com/title/tt0083987/|Ганди |1982|UK|1982-12-03|Biography,Drama,History|191 min|8.1|Richard Attenborough|Ben Kingsley,John Gielgud,Candice Bergen
+http://akas.imdb.com/title/tt0056801/|8½ |1963|Zazie Films [Japan]|1963-02-15|Drama,Fantasy|138 min|8.1|Federico Fellini|Marcello Mastroianni,Anouk Aimée,Claudia Cardinale
+http://akas.imdb.com/title/tt0440963/|Ультиматум Борна |2007|Paramount [France]|2007-08-23|Action,Thriller|115 min|8.1|Paul Greengrass|Matt Damon,Edgar Ramirez,Joan Allen
+http://akas.imdb.com/title/tt0246578/|Донни Дарко |2001|Official site [Spain]|2001-10-26|Drama,Sci-Fi,Thriller|113 min|8.1|Richard Kelly|Jake Gyllenhaal,Jena Malone,Mary McDonnell
+http://akas.imdb.com/title/tt0112471/|Перед рассветом |1995|Austria|1995-01-27|Drama,Romance|105 min|8.1|Richard Linklater|Ethan Hawke,Julie Delpy,Andrea Eckert
+http://akas.imdb.com/title/tt0032138/|Волшебник страны Оз |1939|USA|1939-08-25|Adventure,Family,Fantasy|102 min|8.1|Victor Fleming|Judy Garland,Frank Morgan,Ray Bolger
+http://akas.imdb.com/title/tt0036868/|The Best Years of Our Lives |1946|English|1947-06-17|Drama,Romance,War|172 min|8.2|William Wyler|Fredric March,Dana Andrews,Myrna Loy
+http://akas.imdb.com/title/tt0401792/|Город грехов |2005|Official site|2005-06-02|Crime,Thriller|124 min|8.1|Frank Miller|Mickey Rourke,Clive Owen,Bruce Willis
+http://akas.imdb.com/title/tt0075148/|Рокки |1976|USA|1976-12-03|Drama,Sport|120 min|8.1|John G. Avildsen|Sylvester Stallone,Talia Shire,Burt Young
+http://akas.imdb.com/title/tt0353969/|Воспоминания об убийстве |2003|South Korea|2003-05-02|Crime,Drama,Mystery|131 min|8.1|Joon Ho Bong|Kang-ho Song,Sang-kyung Kim,Roe-ha Kim
+http://akas.imdb.com/title/tt0120382/|Шоу Трумана |1998|USA|1998-06-05|Drama|103 min|8.1|Peter Weir|Jim Carrey,Ed Harris,Laura Linney
+http://akas.imdb.com/title/tt0088247/|Терминатор |1984|UK|1984-10-26|Action,Sci-Fi|107 min|8.1|James Cameron|Arnold Schwarzenegger,Linda Hamilton,Michael Biehn
+http://akas.imdb.com/title/tt0044079/|Strangers on a Train |1951|English|1951-06-30|Crime,Film-Noir,Thriller|101 min|8.1|Alfred Hitchcock|Farley Granger,Robert Walker,Ruth Roman
+http://akas.imdb.com/title/tt3659388/|Марсианин |2015|Official Site|2015-10-08|Adventure,Drama,Sci-Fi|144 min|8.1|Ridley Scott|Matt Damon,Jessica Chastain,Kristen Wiig
+http://akas.imdb.com/title/tt0114746/|Двенадцать обезьян |1995|English|1996-01-05|Mystery,Sci-Fi,Thriller|129 min|8.1|Terry Gilliam|Bruce Willis,Madeleine Stowe,Brad Pitt
+http://akas.imdb.com/title/tt0198781/|Корпорация монстров |2001|Official site|2002-03-22|Animation,Adventure,Comedy|92 min|8.1|Pete Docter|Billy Crystal,John Goodman,Mary Gibbs
+http://akas.imdb.com/title/tt1201607/|Гарри Поттер и Дары смерти: Часть II |2011|Official site|2011-07-13|Adventure,Drama,Fantasy|130 min|8.1|David Yates|Daniel Radcliffe,Emma Watson,Rupert Grint
+http://akas.imdb.com/title/tt0107048/|День сурка |1993|English|1993-02-12|Comedy,Fantasy,Romance|101 min|8.1|Harold Ramis|Bill Murray,Andie MacDowell,Chris Elliott
+http://akas.imdb.com/title/tt0338564/|Двойная рокировка |2002|Official site|2002-12-12|Crime,Mystery,Thriller|101 min|8.1|Wai-Keung Lau|Andy Lau,Tony Chiu Wai Leung,Anthony Chau-Sang Wong
+http://akas.imdb.com/title/tt0073195/|Jaws |1975|Universal Studios|1975-12-27|Adventure,Thriller|124 min|8.1|Steven Spielberg|Roy Scheider,Robert Shaw,Richard Dreyfuss
+http://akas.imdb.com/title/tt0058946/|La battaglia di Algeri |1966|Italy|1966-09-08|Drama,War|121 min|8.1|Gillo Pontecorvo|Brahim Hadjadj,Jean Martin,Yacef Saadi
+http://akas.imdb.com/title/tt0072684/|Barry Lyndon |1975|USA|1975-12-18|Adventure,Drama,History|184 min|8.1|Stanley Kubrick|Ryan O'Neal,Marisa Berenson,Patrick Magee
+http://akas.imdb.com/title/tt0113247/|Ненависть |1995|France|1995-05-31|Crime,Drama|98 min|8.1|Mathieu Kassovitz|Vincent Cassel,Hubert Koundé,Saïd Taghmaoui
+http://akas.imdb.com/title/tt0083922/|Fanny och Alexander |1982|France|1982-12-17|Drama|188 min|8.1|Ingmar Bergman|Bertil Guve,Pernilla Allwin,Kristina Adolphson
+http://akas.imdb.com/title/tt0072890/|Собачий полдень |1975|English|1975-09-21|Crime,Drama|125 min|8.1|Sidney Lumet|Al Pacino,John Cazale,Penelope Allen
+http://akas.imdb.com/title/tt0848228/|Мстители |2012|Official Facebook [United Kingdom]|2012-05-03|Action,Adventure,Sci-Fi|143 min|8.1|Joss Whedon|Robert Downey Jr.,Chris Evans,Scarlett Johansson
+http://akas.imdb.com/title/tt1392214/|Пленницы |2013|Official site [Japan]|2013-09-26|Crime,Drama,Mystery|153 min|8.1|Denis Villeneuve|Hugh Jackman,Jake Gyllenhaal,Viola Davis
+http://akas.imdb.com/title/tt1220719/|Ип Ман |2008|Official site [Hong Kong]|2008-12-12|Action,Biography,Drama|106 min|8.1|Wilson Yip|Donnie Yen,Simon Yam,Siu-Wong Fan
+http://akas.imdb.com/title/tt2084970/|Игра в имитацию |2014|Official site|2015-02-05|Biography,Drama,Thriller|114 min|8.1|Morten Tyldum|Benedict Cumberbatch,Keira Knightley,Matthew Goode
+http://akas.imdb.com/title/tt0050613/|Kumonosu-jô |1957|Japanese|1957-01-15|Drama|110 min|8.1|Akira Kurosawa|Toshirô Mifune,Minoru Chiaki,Isuzu Yamada
+http://akas.imdb.com/title/tt1504320/|Король говорит! |2010|Official site [France]|2011-02-24|Biography,Drama,History|118 min|8.0|Tom Hooper|Colin Firth,Geoffrey Rush,Helena Bonham Carter
+http://akas.imdb.com/title/tt0325980/|Пираты Карибского моря: Проклятие черной жемчужины |2003|Official site|2003-08-22|Action,Adventure,Fantasy|143 min|8.1|Gore Verbinski|Johnny Depp,Geoffrey Rush,Orlando Bloom
+http://akas.imdb.com/title/tt2015381/|Стражи Галактики |2014|Official site|2014-07-31|Action,Adventure,Sci-Fi|121 min|8.1|James Gunn|Chris Pratt,Vin Diesel,Bradley Cooper
+http://akas.imdb.com/title/tt0058461/|Per un pugno di dollari |1964|Spain|1964-09-12|Action,Drama,Western|99 min|8.0|Sergio Leone|Clint Eastwood,Gian Maria Volontè,Marianne Koch
+http://akas.imdb.com/title/tt1454029/|Прислуга |2011|Official site [France]|2012-02-16|Drama|missing_data|8.1|Tate Taylor|Emma Stone,Viola Davis,Octavia Spencer
+http://akas.imdb.com/title/tt0044706/|High Noon |1952|English|1952-07-30|Western|85 min|8.1|Fred Zinnemann|Gary Cooper,Grace Kelly,Thomas Mitchell
+http://akas.imdb.com/title/tt0092067/|Небесный замок Лапута |1986|Japan|1986-08-02|Animation,Adventure,Family|125 min|8.1|Hayao Miyazaki|Anna Paquin,James Van Der Beek,Cloris Leachman
+http://akas.imdb.com/title/tt0028950/|La Grande Illusion |1937|French|1937-06-04|Drama,War|114 min|8.2|Jean Renoir|Jean Gabin,Dita Parlo,Pierre Fresnay
+http://akas.imdb.com/title/tt0046250/|Римские каникулы |1953|English|1953-09-02|Comedy,Romance|118 min|8.1|William Wyler|Gregory Peck,Audrey Hepburn,Eddie Albert
+http://akas.imdb.com/title/tt0264464/|Поймай меня, если сможешь |2002|USA|2002-12-25|Biography,Crime,Drama|141 min|8.0|Steven Spielberg|Leonardo DiCaprio,Tom Hanks,Christopher Walken
+http://akas.imdb.com/title/tt0038787/|Notorious |1946|English|1946-09-06|Drama,Film-Noir,Romance|101 min|8.1|Alfred Hitchcock|Cary Grant,Ingrid Bergman,Claude Rains
+http://akas.imdb.com/title/tt1954470/|Банды Вассейпура |2012|Official site|2012-08-02|Action,Crime,Drama|320 min|8.3|Anurag Kashyap|Manoj Bajpayee,Richa Chadha,Nawazuddin Siddiqui
+http://akas.imdb.com/title/tt0061184/|Who's Afraid of Virginia Woolf? |1966|English|1966-06-22|Drama|131 min|8.1|Mike Nichols|Elizabeth Taylor,Richard Burton,George Segal
+http://akas.imdb.com/title/tt0101414/|Красавица и чудовище |1991|Official Facebook|1991-11-22|Animation,Family,Fantasy|84 min|8.0|Gary Trousdale|Paige O'Hara,Robby Benson,Jesse Corti
+http://akas.imdb.com/title/tt0114787/|Андеграунд |1995|France|1995-04-01|Comedy,Drama,War|170 min|8.1|Emir Kusturica|Predrag Manojlovic,Lazar Ristovski,Mirjana Jokovic
+http://akas.imdb.com/title/tt0052561/|Анатомия убийства |1959|English|1959-09|Crime,Drama,Mystery|160 min|8.1|Otto Preminger|James Stewart,Lee Remick,Ben Gazzara
+http://akas.imdb.com/title/tt0374546/|Весна, лето, осень, зима... и снова весна |2003|Sony Picture Classics [United States]|2003-09-19|Drama|103 min|8.1|Ki-duk Kim|Ki-duk Kim,Yeong-su Oh,Jong-ho Kim
+http://akas.imdb.com/title/tt0118694/|Любовное настроение |2000|Hong Kong|2000-09-29|Drama,Romance|98 min|8.1|Kar-wai Wong|Tony Chiu Wai Leung,Maggie Cheung,Ping Lam Siu
+http://akas.imdb.com/title/tt0381681/|Перед закатом |2004|Warner Bros [France]|2004-07-30|Drama,Romance|80 min|8.0|Richard Linklater|Ethan Hawke,Julie Delpy,Vernon Dobtcheff
+http://akas.imdb.com/title/tt0094625/|Акира |1988|Japan|1988-07-16|Animation,Action,Sci-Fi|124 min|8.1|Katsuhiro Ôtomo|Nozomu Sasaki,Mami Koyama,Mitsuo Iwata
