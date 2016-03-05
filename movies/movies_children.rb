@@ -25,12 +25,11 @@ class ModernMovie < Movie
   def initialize(*args)
     super
   @weight = 0.9
-  @print = @print_format
   end
 end
 
 class NewMovie < Movie
-  filter { |year| (2000..2015).cover?(year) }
+  filter { |year| (2000..2016).cover?(year) }
   print_format "%{name} - новинка!"
 
   def initialize(*args)
