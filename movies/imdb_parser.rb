@@ -21,7 +21,7 @@ class ImdbParser
 
       	title = movie_page.css('div.title_wrapper > h1').first.text.split('(').first
         date = movie_page.css('span[id="titleYear"] > a').first.text
-        country = movie_page.css('div[id="titleDetails"] > div.txt-block > a')[1].text
+        country = movie_page.css('h4.inline + a[itemprop="url"]')[1].text
         premier = movie_page.css('meta[itemprop="datePublished"]').first['content']
         genre = movie_page.css('span.itemprop[itemprop="genre"]').map { |genre| genre.text }.join(',')
         unless (movie_page.css('div.txt-block > time[itemprop="duration"]')[0].nil?)
@@ -44,6 +44,6 @@ class ImdbParser
   end
 end
 
-#movie_page = Nokogiri::HTML(open(ImdbParser.get_top_uri[2]))
+#movie_page = Nokogiri::HTML(open(ImdbParser.get_top_uri[37]))
 time = Benchmark.measure { ImdbParser.parse_to_file("imdb_base") }
 puts "Done! It takes: #{time}"
