@@ -29,7 +29,7 @@ class ModernMovie < Movie
 end
 
 class NewMovie < Movie
-  filter { |year| (2000..2016).cover?(year) }
+  filter { |year| (2001..2016).cover?(year) }
   print_format "%{name} - новинка!"
 
   def initialize(*args)
