@@ -1,17 +1,18 @@
 require 'ostruct'
 require 'csv'
 require 'date'
+require 'yaml'
 require_relative 'movies'
 require_relative 'movies_children'
+
 
 class MoviesList
   attr_reader :movies
   alias_method :list, :movies
 
-  def initialize(file, separator)
-    @movies = CSV.read(file, {col_sep: separator}).map { |film| Movie.create(*film) }
-    @sort_algo = {}
-    @filters = {}
+  def initialize(file)
+    hashes = YAML.load_file(file)
+    @movies = hashes.map { |hash| Movie.create(hash) }
   end
   
   def [](index)
