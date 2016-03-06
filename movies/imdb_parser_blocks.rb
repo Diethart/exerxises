@@ -7,7 +7,7 @@ private
       @blocks[name] = block
     end
 
-    define_block("title") { |page| page.css('div.originalTitle').text.split('(').first }
+    define_block("title") { |page| page.css('div.originalTitle').text.split('(').first.lstrip }
     define_block("date") { |page| page.css('span[id="titleYear"] > a').first.text }
     define_block("country") { |page| page.css('h4.inline:contains("Country") + a').first.text }
     define_block("premier") { |page| page.css('meta[itemprop="datePublished"]').first['content'] }

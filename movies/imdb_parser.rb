@@ -7,7 +7,7 @@ require_relative 'imdb_parser_blocks'
 
 class << ImdbParser
 
-  ATTR = %w[refer name date country premier genre length rating director actors]
+  ATTR = [:refer, :name, :date, :country, :premier, :genre, :length, :rating, :director, :actors]
   private
     def get_top_uri
       page = Nokogiri::HTML(open(@top250_uri))
@@ -42,3 +42,5 @@ class << ImdbParser
       end
     end
 end
+
+ImdbParser.parse_to_yaml("imbd_base")

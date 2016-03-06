@@ -17,7 +17,7 @@ class Movie
     end
 
     def Movie.create(hash)
-      @@filters.find { |name, block| block.call(hash["date"].to_i) }.first.new(hash)
+      @@filters.find { |name, block| block.call(hash[:date].to_i) }.first.new(hash)
     end
   end
   
@@ -28,7 +28,7 @@ class Movie
   ATTR.each { |action| define_method(action) { @attributes[action.to_sym] } }
 
   def to_s
-    puts self.class.format % to_h
+    self.class.format % to_h
   end
 
   def to_h
@@ -36,6 +36,6 @@ class Movie
   end
 
   def method_missing(name)
-    @genre.split(',').include? name.to_s.capitalize.chop
+    self.genre.split(',').include? name.to_s.capitalize.chop
   end
 end

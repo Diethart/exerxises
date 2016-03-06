@@ -1,6 +1,6 @@
 class AncientMovie < Movie
   filter { |year| (1900..1936).cover?(year) }
-  print_format "%{name} - старый фильм, %{date.to_i}"
+  print_format "%{name} - старый фильм, %{date}"
 
   def initialize(*args)
     super
