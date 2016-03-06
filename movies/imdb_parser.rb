@@ -2,11 +2,13 @@ require 'open-uri'
 require 'nokogiri'
 require 'pp'
 require 'benchmark'
+require 'yaml'
 
 class ImdbParser
 
 @main_uri = "http://www.imdb.com"
 @top250_uri = "http://www.imdb.com/chart/top"
+ATTR = %w[refer name date country premier genre length rating director actors]
 
   class << self
 
@@ -39,16 +41,39 @@ class ImdbParser
         get_movie(url, movie_page)
       end
     end
-
+=begin
+    def parse_movies_test(number)
+      self.get_top_uri[0..number].map do |url|
+        movie_page = Nokogiri::HTML(open(url))
+        get_movie(url, movie_page)
+      end
+    end
+=end
     def parse_to_file(name)
       File.open("#{name}.txt", "w") { |file| file.write self.parse_movies.join("\n") }
     end
 
+    def movie_to_hash(movie)
+      Hash[ATTR.zip(movie.split('|'))]
+    end
+
+    def parse_to_yaml(name)
+      i = 0
+      File.open("#{name}.yaml", "w") do |file|
+        file.write self.parse_movies.each_with_index.map { |movie, index|  { "movie_#{index+1}" => self.movie_to_hash(movie) } }.to_yaml
+      end
+    end
+
   end
 end
-
-#movie_page = Nokogiri::HTML(open(ImdbParser.get_top_uri[212]))
+=begin
+movie_url = ImdbParser.get_top_uri[0]
+movie_page = Nokogiri::HTML(open(movie_url))
 #pp movie_page.css('div.originalTitle').text
-
-time = Benchmark.measure { ImdbParser.parse_to_file("imdb_base") }
-puts "Done! It takes: #{time}"
+movie = ImdbParser.get_movie(movie_url, movie_page)
+puts [ { "1" => ImdbParser.movie_to_hash(movie) } ].to_yaml
+#puts movie_to_yaml
+=end
+ImdbParser.parse_to_yaml("imdb_yaml")
+#time = Benchmark.measure { ImdbParser.parse_to_file("imdb_base") }
+#puts "Done! It takes: #{time}"
