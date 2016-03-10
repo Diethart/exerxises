@@ -7,11 +7,11 @@ module Rating
   end
 
   def seen 
-    list.select { |film| seen?(film.name) }
+    @movies.select { |film| seen?(film.name) }
   end
   
   def not_seen
-    list.reject { |film| seen?(film.name) }
+    @movies.reject { |film| seen?(film.name) }
   end
 
   def new_recomendation

@@ -1,40 +1,41 @@
 require 'date'
+require 'pp'
 
 class Movie
-  attr_accessor :refer, :name, :country, :genre, :director
+
   attr_reader :weight
-  def initialize(*args)
-    @refer, @name, @date, @country, @premier, @genre, @length, @rating, @director, @actors = args
+  @@filters = {}
+  @attributes = {}
+  ATTR = %w[refer name date country premier genre length rating director actors]
+
+  class << self
+    attr_reader :format
+    def print_format(fmt); @format = fmt end
+    
+    def Movie.filter(&block)
+      @@filters[self] = block
+    end
+
+    def Movie.create(hash)
+      @@filters.find { |name, block| block.call(hash[:date].to_i) }.first.new(hash)
+    end
   end
   
+  def initialize(hash)
+    @attributes = hash.clone
+  end
+  
+  ATTR.each { |action| define_method(action) { @attributes[action.to_sym] } }
+
   def to_s
-    "Name: #{@name}  Length: #{@length}  Genre: #{genre} Country: #{@country} Date: #{@date}" 
+    self.class.format % to_h
   end
-  
-  def length
-    @length.to_i
+
+  def to_h
+    @attributes
   end
-  
-  def rating
-    @rating.to_i
-  end
-  
-  def date
-    @date.to_i
-  end
-  
-  def premier
-    case @premier.length
-    when 7
-      Date.strptime(@premier, "%Y-%m")
-    when 10
-      Date.strptime(@premier, "%Y-%m-%d")
-    else
-      nil
-  end
-  end
-  
-  def actors
-    @actors.split(',')
+
+  def method_missing(name)
+    self.genre.split(',').include? name.to_s.capitalize.chop
   end
 end

@@ -1,21 +1,21 @@
 require 'ostruct'
 require 'csv'
 require 'date'
+require 'yaml'
 require_relative 'movies'
 require_relative 'movies_children'
+
 
 class MoviesList
   attr_reader :movies
   alias_method :list, :movies
 
-  def initialize(file, separator)
-    @movies = CSV.read(file, {col_sep: separator}).map { |film| make_movie(film) }
+
+  def initialize(file)
+    hashes = YAML.load_file(file)
+    @movies = hashes.map { |hash| Movie.create(hash) }
     @sort_algo = {}
     @filters = {}
-  end
-
-  def make_movie(film)
-       Movie.new(*film)
   end
   
   def [](index)
@@ -23,7 +23,7 @@ class MoviesList
   end
   
   def longest(numbers)
-    @movies.sort_by(&:length).reverse.first(numbers)
+    @movies.sort_by{|movie| movie.length.to_i}.reverse.first(numbers)
   end
   
   def select_genre(genre)
@@ -51,19 +51,19 @@ class MoviesList
   end
   
   def actors_stat
-    @movies.map(&:actors).flatten.reduce(Hash.new(0)) do |actors, actor| 
+    @movies.map{ |movie| movie.actors.split(',') }.flatten.reduce(Hash.new(0)) do |actors, actor| 
     actors[actor] += 1 
     actors
     end
   end
-  
+=begin
   def month_stat
     @movies.select(&:premier).compact.reduce(Hash.new(0)) do |stat, film| 
-    stat[film.premier.month] += 1
+    stat[Date.new(film.premier).month] += 1
     stat
     end
   end
-  
+=end  
   def print(&block)
     block ||= proc{ |film| film.to_s }
     @movies.each { |film| puts block.call(film) }
