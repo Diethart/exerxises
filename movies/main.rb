@@ -9,7 +9,7 @@ require 'date'
 movies = MyMoviesList.new(ARGV[0])
 
 #ТЕСТИРОВАНИЕ БАЗОВЫХ МЕТОДОВ СПИСКА ФИЛЬМОВ
-#puts movies.longest(5)
+#puts movies.longest(5).first.to_s
 #puts movies.select_genre("COMEDY")
 #puts movies.reject_genre("COMEDY")
 #puts movies.select_country("USA")
